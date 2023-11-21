@@ -48,6 +48,76 @@
         "weight": "6 to 12 pounds",
         "coat": " Shorthaired, spotted, or marbled coat with patterns in black, chocolate, or gray/silver with green or gold eyes",
         "life": "12 to 15 years"
+    },
+    {
+        "id": "6",
+        "name": "Abyssinian",
+        "url": "https://images.unsplash.com/photo-1598005532299-f48db04a2637?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QWJ5c3NpbmlhbnxlbnwwfHwwfHx8MA%3D%3D",
+        "description": "Originally from Ethiopia (previously known as Abyssinia), the Abyssinian cat has a distinctive ruddy agouti coat that gives the breed its unique banded look. It has tall, pointy ears, a wedge-shaped head, and a slender and muscular body. Personality-wise, Abys are active, curious cats that frequently follow owners around. Their playful, dog-like demeanor endears them to their humans.",
+        "height": "8 to 10 inches",
+        "weight": " 8 to 10 pounds",
+        "coat": "Short-haired red/orange agouti fur coat with bands of light and dark coloring; other colors can include cinnamon, fawn, and blue",
+        "life": "12 to 15 years"
+    },
+    {
+        "id": "7",
+        "name": "Birman",
+        "url": "https://images.unsplash.com/photo-1611262578911-0530dfff7051?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fEJpcm1hbnxlbnwwfHwwfHx8MA%3D%3D",
+        "description": "Birmans are another color-pointed cat like the Siamese and ragdoll. They have blue eyes and a medium-long coat but no undercoat, the primary trait that sets them apart from Persians and Himalayans. Birmans were the original stock for breeding ragdolls, so they look very similar, but they have slightly different markings and personalities. They are fun, social cats that love attention—from their chosen person. They are more of a one-person cat than others.",
+        "height": "8 to 10 inches",
+        "weight": "6 to 15 pounds",
+        "coat": "Long and silky coat in seal, blue, red, chocolate, cream, and tortie colors, including standard or lynx pattern points and deep blue eyes",
+        "life": "15 to 20 years"
+    },
+    {
+        "id": "8",
+        "name": "Oriental Shorthair",
+        "url": "https://images.unsplash.com/photo-1611673697975-81905bc190e5?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8T3JpZW50YWwlMjBTaG9ydGhhaXIlMjBjYXR8ZW58MHx8MHx8fDA%3D",
+        "description": "At a glance, you may think this slender cat looks like a Siamese, but the Oriental shorthair is a separate breed. Unlike Siamese cats, they usually have green eyes and many color patterns and colors. The Oriental can also have long hair. Oriental shorthair cats are prone to skin cancer and getting cold due to their lack of fur; they are often seen wearing sweaters.",
+        "height": "9 to 11 inches",
+        "weight": "7 to 12 pounds",
+        "coat": " Short, smooth coat with many color possibilities: solids, shaded, smoke, and tabby with green, blue, gold, and yellow eyes",
+        "life": " 15 to 20 years"
+    },
+    {
+        "id": "9",
+        "name": "Sphynx",
+        "url": "https://images.unsplash.com/photo-1607623488989-d22660f2cc17?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8U3BoeW54fGVufDB8fDB8fHww",
+        "description": "If you are looking for a cat that doesn't shed, then the sphynx is for you. Sphynx cats look unique due to their lack of fur and are very social, active, dog-like felines. They look like they belong in the laps of royalty, but they are playful and goofy and act more like court jesters despite their regal appearance.",
+        "height": "8 to 10 inches",
+        "weight": "8 to 10 pounds",
+        "coat": "Hairless with white, black, red, chocolate, lavender, tabby, tortoiseshell, calico, pointed, and mink colors",
+        "life": "15 to 20 years"
+    },
+    {
+        "id": "10",
+        "name": "Devon Rex",
+        "url": "https://images.unsplash.com/photo-1624191015688-97292929795f?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RGV2b24lMjBSZXh8ZW58MHx8MHx8fDA%3D",
+        "description": "Devon rex cats have wavy, soft short hair and slender bodies with enormous ears. The Devon Rex is a playful, active cat described as \"a monkey in a catsuit.\" This kitty will steal your heart with its lively, sweet disposition. They are also trainable and adept at learning tricks.",
+        "height": "10 to 12 inches",
+        "weight": "7 to 12 pounds",
+        "coat": "Short, fine, wavy coat in solid, tabby, and shaded varieties",
+        "life": "15 to 20 years"
+    },
+    {
+        "id": "11",
+        "name": "Himalayan",
+        "url": "https://images.unsplash.com/photo-1586869724626-2a01e3634d30?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8SGltYWxheWFuJTIwY2F0fGVufDB8fDB8fHww",
+        "description": "Like the Persian, the Himalayan cat is considered a sub-breed in some cat associations and a separate breed in others. Himalayans were bred from crossing Persians and Siamese to achieve their color points. They love attention and affection from their owners, have sweet personalities, and are playful.",
+        "height": "10 to 12 inches",
+        "weight": "9 to 12 pounds",
+        "coat": "Dense undercoat with a long overcoat that comes in pointed colors and patterns in gray, blue, chocolate, lilac, and cream",
+        "life": " Up to 18 years"
+    },
+    {
+        "id": "12",
+        "name": "American Shorthair",
+        "url": "https://images.unsplash.com/photo-1513451713350-dee890297c4a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTIxfHxBbWVyaWNhbiUyMFNob3J0aGFpciUyMGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+        "description": "An all-American breed, the American shorthair cat is an intelligent, shorthaired feline that has a round face and short ears. They are often confused with domestic mixed-breed cats but are purebred. Its breed name changed from domestic shorthair cats in 1966 to differentiate them.4 This medium-sized cat has a gentle nature that makes this breed a great companion for families with children or other pets. The American shorthair is one of the most popular pedigreed cat breeds in North America.",
+        "height": "8 to 10 inches",
+        "weight": "8 to 12 pounds",
+        "coat": "Shorthaired coat with a wide variety of possibilities, including white, black, cream, blue, brown, chinchilla, tortoiseshell, cameo, and many more",
+        "life": "15 to 20 years"
     }
     
    

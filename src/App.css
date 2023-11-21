@@ -21,7 +21,6 @@
 .nav {
   display: flex;
   gap: 4vw;
-  
 }
 
 .nav p {
@@ -120,6 +119,7 @@
   font-size: 2vw;
 }
 
+
 .catInfo {
   width: 70%;
 }
@@ -164,10 +164,14 @@ td {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  color: var(--main-color);
+  color: rgb(35, 31, 19);
+  /* color: var(--main-color); */
+  overflow: hidden;
 }
 
 .catsLink h2{
+  width: 80%;
+  text-align: center;
   background-color: rgb(245, 222, 178, 0.5)
 }
 
@@ -177,4 +181,131 @@ td {
   font-size: 1.1vw;
   border-radius: 20px;
   background-color: antiquewhite;
+}
+
+@media only screen and (max-width: 1200px) {
+  .home {
+    padding-top: 5%;
+  }
+  .mainDescr {
+    padding-left: 2vw;
+  }
+  .catsLink button {
+    font-size: 1.5vw;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+  .home {
+    flex-direction: column-reverse;
+  }
+  
+  .mainDescr {
+    width: 80%;
+    font-size: 2.5vw;
+    line-height: 4vh;
+  }
+  
+ .home input {
+    width: 70px;
+    height: 70px;   
+  }
+  
+  .catPhoto {
+    width: 50vh;
+    height: 50vh;
+  }
+  
+  .catName {
+    font-size: 3vw;
+  }
+
+  td {
+    font-size: 2vw;
+  }
+
+  .catDescriotion {
+    padding: 0 5vw;
+    font-size: 2vw;
+    line-height: 3vh;
+  }
+  .catsLink {
+    width: 24vw;
+    height: 24vw;
+  }
+  .catsLink button {
+    margin-bottom: 2vh;
+    font-size: 2vw;
+  }
+
+}
+
+@media only screen and (max-width: 767px) {
+  .header, .footer {
+    font-size: 2.5vh;
+  }
+
+  .home {
+    padding-top: 2%;
+    gap: 0vh;
+   
+  }
+  
+  .mainDescr {
+    width: 90%;
+    font-size: 4vw;
+  }
+  
+  .mainPhoto {
+    width: 90vw;
+  }
+
+  .mainPhoto img {
+    width: 100%;
+  }
+  
+  .cat {
+    padding-top: 0vh;
+  }
+  
+  .catReviw {
+    flex-direction: column;
+    justify-content: center;
+    padding-top: -5vh;
+  }
+  
+  .catPhoto {
+    width: 90vw;
+    height: 40vh;
+  }
+  
+  .catInformSection {
+    width: 100vw;
+    padding-left: 10vw;
+  }
+  
+  .catName {
+    font-size: 5vw;
+    margin-top: -3vh;
+  }
+  
+  td {
+    font-size: 3vw;
+  }
+  
+  .catDescriotion {
+    padding: 2vw;
+    font-size: 3vw;
+    padding-bottom: 2vh;
+  }
+  
+  .catsLink {
+    width: 40vw;
+    height: 40vw;
+  }
+
+  .catsLink button {
+    font-weight: bold;
+    font-size: 4vw;
+  }
 }
