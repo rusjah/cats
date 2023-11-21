@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Siamese",
+        "url": "https://images.unsplash.com/photo-1568309386325-ef86f13ac533?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U2lhbWVzZXxlbnwwfHwwfHx8MA%3D%3D",
+        "description": "Popular since the 19th century, this cat breed originated in Thailand (formerly known as Siam). The Siamese has been a foundational breed for the Oriental shorthair, sphynx, and Himalayan. Most Siamese cats have distinct markings called \"points\" that are the areas of coloration on their face, ears, feet, and tail. Two varieties of Siamese cats have an \"apple\" shaped head and chubbier body and the other features a larger head and slender body. The animated Disney film \"Lady and the Tramp\" featured Siamese cats singing a song, demonstrating their intelligence and vocal skills. Many Siamese cats that originated from Thailand had a kink in their tail—a trait bred out of most Siamese, but you can still see it in street cats in Thailand.",
+        "height": "Up to 14 inches",
+        "weight": "5 to 8 pounds",
+        "coat": " Short coat in seal, chocolate, blue, and lilac with blue eyes",
+        "life":"12 to 15 years"
+    },
+    {
+        "name": "Persian",
+        "url": "https://images.unsplash.com/photo-1582479541280-cd39734b8490?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8UGVyc2lhbiUyMGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+        "description": "Also lovingly referred to as one of the \"smushed-face\" cats, the Iranian cat, or Shiraz cat (named for a city in Iran), Persians have beautiful, long fur coats. They can come in almost any color and have a flat face when compared to most other breeds of cats. Persians are featured in many movies, artworks, and commercials and have been one of the most popular breeds of cats for decades. Their coats demand regular grooming, otherwise, matting will result. Like many purebreds, they are prone to a variety of diseases, including renal and cardiac problems.",
+        "height": "14 to 18 inches",
+        "weight": ": 7 to 12 pounds",
+        "coat": " Long coat in solid (white, black, cream), tabby, calico, bi-color, silver and gold, shaded, and smoke",
+        "life": "15 to 20 years"
+    },
+    {
+        "name": "Maine Coon",
+        "url": "https://images.unsplash.com/photo-1543055484-ac8fe612bf31?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TWFpbmUlMjBDb29ufGVufDB8fDB8fHww",
+        "description": "Known for its large stature and thick fur coat, the Maine coon is a cat that is difficult to ignore. Hailing from the state of Maine and the state’s official cat, the Maine coon is a gentle giant. They are great hunters and were popularized after the CFA recognized them as purebred in the late 1970s. They remain one of the most popular cat breeds. Many Maine coons have polydactylism, or extra toes, which makes their already large feet even larger.1 This great feature helps for hunting in the snow since large feet act as snowshoes. The classic Maine coon coloration is a brown tabby, but this breed can come in almost any color.",
+        "height": "Up to 16 inches",
+        "weight": "8 to 20 pounds",
+        "coat": "Long, double coat with more than 75 color combinations and green, gold, or copper eyes",
+        "life": "12 to 15 years"
+    },
+    {
+        "name": "Ragdoll",
+        "url": "https://images.unsplash.com/photo-1627981643499-07422174a28f?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fFJhZ2RvbGx8ZW58MHx8MHx8fDA%3D",
+        "description": "Ragdoll cats get their name from their docile temperament. They tend to go limp when picked up, much like a rag doll. At one time, people thought they couldn’t feel pain, but that is not true. Ragdolls look a lot like long-haired Siamese cats with pointed color patterns. They also have distinctive blue eyes and dog-like personalities, following their owners around the house.",
+        "height": " 11 to 13 inches",
+        "weight": "15 to 20 pounds",
+        "coat": "Medium-length and silky with many different colors and patterns with blue eyes",
+        "life": " 15 to 25 years"
+    },
+    {
+        "name": "Bengal",
+        "url": "https://images.unsplash.com/photo-1496806195556-91bdded94209?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEJlbmdhbHxlbnwwfHwwfHx8MA%3D%3D",
+        "description": "Bengals are wild-looking cats—literally. Their markings make them look more like they belong in the jungle rather than in your home, but they are domesticated. They are talkative and require a lot of exercise. They come in many colors with patterns like spots and rosettes. Their name comes from the Asian leopard cat’s taxonomic name, Prionailurus bengalensis bengalensis. Bengals were initially bred from domestic cats and a wildcat. They also get their beautiful patterns from this wildcat.",
+        "height": "13 to 16 inches",
+        "weight": "6 to 12 pounds",
+        "coat": " Shorthaired, spotted, or marbled coat with patterns in black, chocolate, or gray/silver with green or gold eyes",
+        "life": "12 to 15 years"
+    }
+    
+   
+]
