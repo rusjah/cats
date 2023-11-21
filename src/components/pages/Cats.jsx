@@ -5,6 +5,7 @@ import { useNavigate } from 'react-router-dom'
 
 
 function Cats({setSelectedCat}) {
+
     const navigate = useNavigate();
     
     function clickHandler (catDetail) {
@@ -13,7 +14,7 @@ function Cats({setSelectedCat}) {
     }
   return (
     <div className='cats'>
-        {cats.map((ct, ind) => <div key={ind}>
+        {cats.map((ct, ind) => <div className='catsLink' style={{backgroundImage: `url(${ct.url})`}} key={ind}>
             <h2>{ct.name}</h2>
             <button onClick={() => {clickHandler(ct)}}>Look</button>
         </div>)}

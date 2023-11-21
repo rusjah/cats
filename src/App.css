@@ -142,3 +142,39 @@ td {
   font-family:'Times New Roman', Times, serif;
   line-height: 3.5vh;
 }
+
+.cats {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4vw;
+  padding: 4vh 4vw;
+}
+
+.catsLink {
+  width: 16vw;
+  height: 16vw;
+  border: 2px solid rgb(165, 130, 42);
+  border-radius: 50%;
+  background-image: url(https://webstockreview.net/images/clipart-dog-paw-print-6.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--main-color);
+}
+
+.catsLink h2{
+  background-color: rgb(245, 222, 178, 0.5)
+}
+
+.catsLink button {
+  margin-bottom: 4vh;
+  font-weight: bold;
+  font-size: 1.1vw;
+  border-radius: 20px;
+  background-color: antiquewhite;
+}
