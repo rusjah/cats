@@ -1,20 +1,21 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 import cats from '../../data/cats.json'
 import { useNavigate } from 'react-router-dom'
 
 
-function Cats() {
+function Cats({setSelectedCat}) {
     const navigate = useNavigate();
     
-    function clickHandler () {
+    function clickHandler ({catDetail}) {
+        setSelectedCat(catDetail);
         navigate('/cat')
     }
   return (
     <div className='cats'>
         {cats.map((ct, ind) => <div key={ind}>
             <h2>{ct.name}</h2>
-            <button onClick={clickHandler}>Look</button>
+            <button onClick={() => {clickHandler(clickHandler)}}>Look</button>
         </div>)}
     </div>
   )
