@@ -40,5 +40,46 @@
 }
 
 .main {
-  min-height: 86vh;
+ height: 86vh;
+}
+
+.home {
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2vh;
+ 
+}
+
+.mainDescr {
+  width: 40%;
+  height: 60%;
+  font-size: 2vw;
+  font-family:  'Dancing Script', cursive;
+  position: relative;
+}
+
+.mainPhoto {
+  width: 40%;
+  height: 60%;
+}
+
+.home button, .home input {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  right: 5%;
+  background-repeat: no-repeat;
+  
+}
+
+.goBtn{ 
+  position: absolute;
+  right: 15%;
+  display: none;
+}
+
+.home input:hover ~ .goBtn {
+  display: block;
 }
