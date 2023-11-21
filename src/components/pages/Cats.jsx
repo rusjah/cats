@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 
 import cats from '../../data/cats.json'
 import { useNavigate } from 'react-router-dom'
@@ -7,7 +7,7 @@ import { useNavigate } from 'react-router-dom'
 function Cats({setSelectedCat}) {
     const navigate = useNavigate();
     
-    function clickHandler ({catDetail}) {
+    function clickHandler (catDetail) {
         setSelectedCat(catDetail);
         navigate('/cat')
     }
@@ -15,7 +15,7 @@ function Cats({setSelectedCat}) {
     <div className='cats'>
         {cats.map((ct, ind) => <div key={ind}>
             <h2>{ct.name}</h2>
-            <button onClick={() => {clickHandler(clickHandler)}}>Look</button>
+            <button onClick={() => {clickHandler(ct)}}>Look</button>
         </div>)}
     </div>
   )

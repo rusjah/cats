@@ -40,10 +40,12 @@
 }
 
 .main {
- height: 86vh;
+ /* height: 86vh; */
+ min-height: 86vh;
 }
 
 .home {
+  padding-top: 10%;
   min-height: 100%;
   display: flex;
   justify-content: center;
@@ -82,4 +84,61 @@
 
 .home input:hover ~ .goBtn {
   display: block;
+}
+
+
+.cat {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 4vh;
+}
+
+.catReviw {
+  display: flex;
+}
+
+.catPhoto {
+  width: 60vh;
+  height: 60vh;
+}
+
+.catPhoto img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.catInformSection {
+  /* font-size: 1.5vw; */
+}
+
+.catName {
+  color: orange;
+  font-size: 2vw;
+}
+
+.catInfo {
+  width: 70%;
+}
+
+td {
+  padding: 1vh 0;
+  font-size: 1.3vw;
+}
+
+.info{
+  text-transform: uppercase;
+  font-weight: bold;
+  color: rgb(102, 72, 12);
+  padding-right: 2vw;
+}
+
+.catDescriotion {
+  padding: 4vw;
+  font-size: 1.5vw;
+  font-family:'Times New Roman', Times, serif;
+  line-height: 3.5vh;
 }

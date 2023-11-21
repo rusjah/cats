@@ -5,6 +5,7 @@ import Cats from './components/pages/Cats';
 import Header from './components/layout.jsx/Header';
 import Footer from './components/layout.jsx/Footer';
 import { useState } from 'react';
+import Cat from './components/pages/Cat';
 
 function App() {
   const [selectedCat, setSelectedCat] = useState()
@@ -15,7 +16,7 @@ function App() {
         <Routes>
             <Route path='/' element={<Home />} />
             <Route path='/cats' element={<Cats setSelectedCat={setSelectedCat}/>} />
-            
+            <Route path='/cat' element={<Cat selectedCat={selectedCat} />}/>
         </Routes>
       </div>
      <Footer />
