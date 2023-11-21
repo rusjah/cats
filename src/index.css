@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Marhey:wght@700&display=swap');
+ *{
+    text-decoration: none;
+ }
+:root {
+    --main-color: rgb(177, 126, 32);;
+}
