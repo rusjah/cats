@@ -15,7 +15,7 @@ function Cats({cats, setSelectedCat, setCats}) {
     }
 
     function deleteHandler(deletInf){
-        const result = cats.filter(ct => ct.id != deletInf.id);
+        const result = cats.filter(ct => ct.id !== deletInf.id);
         setCats(cats=>result);
     }
   return (
